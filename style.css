@@ -1,0 +1,49 @@
+body {
+    background-color: rgb(47, 168, 182);
+    font-family: serif;
+    color: black);
+    padding: 20px;
+    }
+
+    h1 {
+    font-family: sans-serif;
+    margin: 0px auto;
+}
+p{
+    font-size: 24px;
+}
+
+
+h2 {
+    color: rgb(92, 24, 48);
+    font-family: sans-serif;
+}
+a {
+    text-transform: capitalize;
+    text-decoration: underline;
+}
+ol{
+    border: 10px solid rgb(57, 85, 57);
+    margin: 10px;
+    padding: 20px 40px;
+    border-radius: 30px;
+    width: 50%;
+}
+ol li{
+    line-height: 1.5rem;
+    
+}
+ul{
+    border: 10px solid rgb(57, 85, 57);
+    margin: 10px;
+    padding: 20px 40px;
+    border-radius: 30px;
+    width: 50%;
+}
+
+img{
+    margin:  auto;
+    border: 10px solid black;
+}
+
+
